@@ -1,12 +1,15 @@
 """Main Typer app for Etch CLI."""
 
 import typer
+from .memory_cmd import app as memory_app
 
 app = typer.Typer(
     name="etch",
     help="Passive memory layer for AI coding tools",
     no_args_is_help=True,
 )
+
+app.add_typer(memory_app, name="memory")
 
 
 @app.command()
