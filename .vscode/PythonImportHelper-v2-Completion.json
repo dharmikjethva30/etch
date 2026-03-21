@@ -1,0 +1,1087 @@
+[
+    {
+        "label": "typer",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "typer",
+        "description": "typer",
+        "detail": "typer",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Set",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Set",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Panel",
+        "importPath": "rich.panel",
+        "description": "rich.panel",
+        "isExtraImport": true,
+        "detail": "rich.panel",
+        "documentation": {}
+    },
+    {
+        "label": "Panel",
+        "importPath": "rich.panel",
+        "description": "rich.panel",
+        "isExtraImport": true,
+        "detail": "rich.panel",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "rich.text",
+        "description": "rich.text",
+        "isExtraImport": true,
+        "detail": "rich.text",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "rich.text",
+        "description": "rich.text",
+        "isExtraImport": true,
+        "detail": "rich.text",
+        "documentation": {}
+    },
+    {
+        "label": "Repo",
+        "importPath": "git",
+        "description": "git",
+        "isExtraImport": true,
+        "detail": "git",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidGitRepositoryError",
+        "importPath": "git",
+        "description": "git",
+        "isExtraImport": true,
+        "detail": "git",
+        "documentation": {}
+    },
+    {
+        "label": "GitCommandError",
+        "importPath": "git",
+        "description": "git",
+        "isExtraImport": true,
+        "detail": "git",
+        "documentation": {}
+    },
+    {
+        "label": "Repo",
+        "importPath": "git",
+        "description": "git",
+        "isExtraImport": true,
+        "detail": "git",
+        "documentation": {}
+    },
+    {
+        "label": "GitCommandError",
+        "importPath": "git",
+        "description": "git",
+        "isExtraImport": true,
+        "detail": "git",
+        "documentation": {}
+    },
+    {
+        "label": "user_data_dir",
+        "importPath": "platformdirs",
+        "description": "platformdirs",
+        "isExtraImport": true,
+        "detail": "platformdirs",
+        "documentation": {}
+    },
+    {
+        "label": "user_data_dir",
+        "importPath": "platformdirs",
+        "description": "platformdirs",
+        "isExtraImport": true,
+        "detail": "platformdirs",
+        "documentation": {}
+    },
+    {
+        "label": "user_data_dir",
+        "importPath": "platformdirs",
+        "description": "platformdirs",
+        "isExtraImport": true,
+        "detail": "platformdirs",
+        "documentation": {}
+    },
+    {
+        "label": "user_config_dir",
+        "importPath": "platformdirs",
+        "description": "platformdirs",
+        "isExtraImport": true,
+        "detail": "platformdirs",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "etch.config.settings",
+        "description": "etch.config.settings",
+        "isExtraImport": true,
+        "detail": "etch.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "etch.config.settings",
+        "description": "etch.config.settings",
+        "isExtraImport": true,
+        "detail": "etch.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "etch.config.settings",
+        "description": "etch.config.settings",
+        "isExtraImport": true,
+        "detail": "etch.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "etch.config.settings",
+        "description": "etch.config.settings",
+        "isExtraImport": true,
+        "detail": "etch.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "etch.config.settings",
+        "description": "etch.config.settings",
+        "isExtraImport": true,
+        "detail": "etch.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "register_project",
+        "importPath": "etch.config.registry",
+        "description": "etch.config.registry",
+        "isExtraImport": true,
+        "detail": "etch.config.registry",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_projects",
+        "importPath": "etch.config.registry",
+        "description": "etch.config.registry",
+        "isExtraImport": true,
+        "detail": "etch.config.registry",
+        "documentation": {}
+    },
+    {
+        "label": "Store",
+        "importPath": "etch.memory.store",
+        "description": "etch.memory.store",
+        "isExtraImport": true,
+        "detail": "etch.memory.store",
+        "documentation": {}
+    },
+    {
+        "label": "Store",
+        "importPath": "etch.memory.store",
+        "description": "etch.memory.store",
+        "isExtraImport": true,
+        "detail": "etch.memory.store",
+        "documentation": {}
+    },
+    {
+        "label": "Store",
+        "importPath": "etch.memory.store",
+        "description": "etch.memory.store",
+        "isExtraImport": true,
+        "detail": "etch.memory.store",
+        "documentation": {}
+    },
+    {
+        "label": "Store",
+        "importPath": "etch.memory.store",
+        "description": "etch.memory.store",
+        "isExtraImport": true,
+        "detail": "etch.memory.store",
+        "documentation": {}
+    },
+    {
+        "label": "Store",
+        "importPath": "etch.memory.store",
+        "description": "etch.memory.store",
+        "isExtraImport": true,
+        "detail": "etch.memory.store",
+        "documentation": {}
+    },
+    {
+        "label": "Store",
+        "importPath": "etch.memory.store",
+        "description": "etch.memory.store",
+        "isExtraImport": true,
+        "detail": "etch.memory.store",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "importPath": "rich.table",
+        "description": "rich.table",
+        "isExtraImport": true,
+        "detail": "rich.table",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "importPath": "rich.table",
+        "description": "rich.table",
+        "isExtraImport": true,
+        "detail": "rich.table",
+        "documentation": {}
+    },
+    {
+        "label": "platform",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "platform",
+        "description": "platform",
+        "detail": "platform",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "signal",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "signal",
+        "description": "signal",
+        "detail": "signal",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "atexit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "atexit",
+        "description": "atexit",
+        "detail": "atexit",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "FileWatcher",
+        "importPath": "etch.daemon.watcher",
+        "description": "etch.daemon.watcher",
+        "isExtraImport": true,
+        "detail": "etch.daemon.watcher",
+        "documentation": {}
+    },
+    {
+        "label": "GitPoller",
+        "importPath": "etch.daemon.git_poller",
+        "description": "etch.daemon.git_poller",
+        "isExtraImport": true,
+        "detail": "etch.daemon.git_poller",
+        "documentation": {}
+    },
+    {
+        "label": "SessionTracker",
+        "importPath": "etch.daemon.session_tracker",
+        "description": "etch.daemon.session_tracker",
+        "isExtraImport": true,
+        "detail": "etch.daemon.session_tracker",
+        "documentation": {}
+    },
+    {
+        "label": "fnmatch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "fnmatch",
+        "description": "fnmatch",
+        "detail": "fnmatch",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "Observer",
+        "importPath": "watchdog.observers",
+        "description": "watchdog.observers",
+        "isExtraImport": true,
+        "detail": "watchdog.observers",
+        "documentation": {}
+    },
+    {
+        "label": "FileModifiedEvent",
+        "importPath": "watchdog.events",
+        "description": "watchdog.events",
+        "isExtraImport": true,
+        "detail": "watchdog.events",
+        "documentation": {}
+    },
+    {
+        "label": "FileCreatedEvent",
+        "importPath": "watchdog.events",
+        "description": "watchdog.events",
+        "isExtraImport": true,
+        "detail": "watchdog.events",
+        "documentation": {}
+    },
+    {
+        "label": "FileDeletedEvent",
+        "importPath": "watchdog.events",
+        "description": "watchdog.events",
+        "isExtraImport": true,
+        "detail": "watchdog.events",
+        "documentation": {}
+    },
+    {
+        "label": "FileMovedEvent",
+        "importPath": "watchdog.events",
+        "description": "watchdog.events",
+        "isExtraImport": true,
+        "detail": "watchdog.events",
+        "documentation": {}
+    },
+    {
+        "label": "FileSystemEventHandler",
+        "importPath": "watchdog.events",
+        "description": "watchdog.events",
+        "isExtraImport": true,
+        "detail": "watchdog.events",
+        "documentation": {}
+    },
+    {
+        "label": "sqlite3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlite3",
+        "description": "sqlite3",
+        "detail": "sqlite3",
+        "documentation": {}
+    },
+    {
+        "label": "cmd_context",
+        "kind": 2,
+        "importPath": "etch.cli.context_cmd",
+        "description": "etch.cli.context_cmd",
+        "peekOfCode": "def cmd_context() -> None:\n    \"\"\"Debug: print what get_context() would return right now.\"\"\"\n    typer.echo(\"Coming soon - etch context (Week 2)\")",
+        "detail": "etch.cli.context_cmd",
+        "documentation": {}
+    },
+    {
+        "label": "cmd_doctor",
+        "kind": 2,
+        "importPath": "etch.cli.doctor_cmd",
+        "description": "etch.cli.doctor_cmd",
+        "peekOfCode": "def cmd_doctor() -> None:\n    \"\"\"Diagnose issues: daemon running, git found, SLM loaded.\"\"\"\n    typer.echo(\"Coming soon - etch doctor (Week 3)\")",
+        "detail": "etch.cli.doctor_cmd",
+        "documentation": {}
+    },
+    {
+        "label": "cmd_init",
+        "kind": 2,
+        "importPath": "etch.cli.init_cmd",
+        "description": "etch.cli.init_cmd",
+        "peekOfCode": "def cmd_init() -> None:\n    \"\"\"Initialize a new Engram project.\"\"\"\n    console.print()\n    # Step 1: Detect project\n    console.print(\"[bold]Detecting project...[/bold]\")\n    root = _detect_project_root()\n    if not root:\n        console.print(\"[red]✗ No git repository found[/red]\")\n        raise typer.Exit(1)\n    try:",
+        "detail": "etch.cli.init_cmd",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "kind": 5,
+        "importPath": "etch.cli.init_cmd",
+        "description": "etch.cli.init_cmd",
+        "peekOfCode": "console = Console()\ndef _detect_project_root(start_path: Path = None) -> Optional[Path]:\n    \"\"\"Find git repo root from current directory or given path.\"\"\"\n    if start_path is None:\n        start_path = Path.cwd()\n    current = Path(start_path).resolve()\n    while current != current.parent:\n        if (current / \".git\").exists():\n            return current\n        current = current.parent",
+        "detail": "etch.cli.init_cmd",
+        "documentation": {}
+    },
+    {
+        "label": "init",
+        "kind": 2,
+        "importPath": "etch.cli.main",
+        "description": "etch.cli.main",
+        "peekOfCode": "def init() -> None:\n    \"\"\"Auto-detect git repo, create .etch/ config, and harvest git history.\"\"\"\n    from .init_cmd import cmd_init\n    cmd_init()\n@app.command()\ndef start() -> None:\n    \"\"\"Start daemon in background.\"\"\"\n    from .start_cmd import cmd_start\n    cmd_start()\n@app.command()",
+        "detail": "etch.cli.main",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 2,
+        "importPath": "etch.cli.main",
+        "description": "etch.cli.main",
+        "peekOfCode": "def start() -> None:\n    \"\"\"Start daemon in background.\"\"\"\n    from .start_cmd import cmd_start\n    cmd_start()\n@app.command()\ndef stop() -> None:\n    \"\"\"Stop daemon gracefully.\"\"\"\n    from .stop_cmd import cmd_stop\n    cmd_stop()\n@app.command()",
+        "detail": "etch.cli.main",
+        "documentation": {}
+    },
+    {
+        "label": "stop",
+        "kind": 2,
+        "importPath": "etch.cli.main",
+        "description": "etch.cli.main",
+        "peekOfCode": "def stop() -> None:\n    \"\"\"Stop daemon gracefully.\"\"\"\n    from .stop_cmd import cmd_stop\n    cmd_stop()\n@app.command()\ndef status() -> None:\n    \"\"\"Show tracked files, recent events, active session, and memory stats.\"\"\"\n    from .status_cmd import cmd_status\n    cmd_status()\n@app.command()",
+        "detail": "etch.cli.main",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "kind": 2,
+        "importPath": "etch.cli.main",
+        "description": "etch.cli.main",
+        "peekOfCode": "def status() -> None:\n    \"\"\"Show tracked files, recent events, active session, and memory stats.\"\"\"\n    from .status_cmd import cmd_status\n    cmd_status()\n@app.command()\ndef projects() -> None:\n    \"\"\"Show all tracked projects and their daemon status.\"\"\"\n    from .projects_cmd import cmd_projects\n    cmd_projects()\n@app.command()",
+        "detail": "etch.cli.main",
+        "documentation": {}
+    },
+    {
+        "label": "projects",
+        "kind": 2,
+        "importPath": "etch.cli.main",
+        "description": "etch.cli.main",
+        "peekOfCode": "def projects() -> None:\n    \"\"\"Show all tracked projects and their daemon status.\"\"\"\n    from .projects_cmd import cmd_projects\n    cmd_projects()\n@app.command()\ndef context() -> None:\n    \"\"\"Debug: print what get_context() would return right now.\"\"\"\n    typer.echo(\"Coming soon - etch context\")\n@app.command(\"setup-slm\")\ndef setup_slm() -> None:",
+        "detail": "etch.cli.main",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "kind": 2,
+        "importPath": "etch.cli.main",
+        "description": "etch.cli.main",
+        "peekOfCode": "def context() -> None:\n    \"\"\"Debug: print what get_context() would return right now.\"\"\"\n    typer.echo(\"Coming soon - etch context\")\n@app.command(\"setup-slm\")\ndef setup_slm() -> None:\n    \"\"\"Auto-detect hardware and install best local SLM.\"\"\"\n    typer.echo(\"Coming soon - etch setup-slm\")\n@app.command()\ndef mcp() -> None:\n    \"\"\"Print MCP server JSON config to paste into Claude Code / Cursor.\"\"\"",
+        "detail": "etch.cli.main",
+        "documentation": {}
+    },
+    {
+        "label": "setup_slm",
+        "kind": 2,
+        "importPath": "etch.cli.main",
+        "description": "etch.cli.main",
+        "peekOfCode": "def setup_slm() -> None:\n    \"\"\"Auto-detect hardware and install best local SLM.\"\"\"\n    typer.echo(\"Coming soon - etch setup-slm\")\n@app.command()\ndef mcp() -> None:\n    \"\"\"Print MCP server JSON config to paste into Claude Code / Cursor.\"\"\"\n    typer.echo(\"Coming soon - etch mcp\")\n@app.command()\ndef doctor() -> None:\n    \"\"\"Diagnose issues: daemon running, git found, SLM loaded.\"\"\"",
+        "detail": "etch.cli.main",
+        "documentation": {}
+    },
+    {
+        "label": "mcp",
+        "kind": 2,
+        "importPath": "etch.cli.main",
+        "description": "etch.cli.main",
+        "peekOfCode": "def mcp() -> None:\n    \"\"\"Print MCP server JSON config to paste into Claude Code / Cursor.\"\"\"\n    typer.echo(\"Coming soon - etch mcp\")\n@app.command()\ndef doctor() -> None:\n    \"\"\"Diagnose issues: daemon running, git found, SLM loaded.\"\"\"\n    typer.echo(\"Coming soon - etch doctor\")\nif __name__ == \"__main__\":\n    app()",
+        "detail": "etch.cli.main",
+        "documentation": {}
+    },
+    {
+        "label": "doctor",
+        "kind": 2,
+        "importPath": "etch.cli.main",
+        "description": "etch.cli.main",
+        "peekOfCode": "def doctor() -> None:\n    \"\"\"Diagnose issues: daemon running, git found, SLM loaded.\"\"\"\n    typer.echo(\"Coming soon - etch doctor\")\nif __name__ == \"__main__\":\n    app()",
+        "detail": "etch.cli.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "etch.cli.main",
+        "description": "etch.cli.main",
+        "peekOfCode": "app = typer.Typer(\n    name=\"etch\",\n    help=\"Passive memory layer for AI coding tools\",\n    no_args_is_help=True,\n)\n@app.command()\ndef init() -> None:\n    \"\"\"Auto-detect git repo, create .etch/ config, and harvest git history.\"\"\"\n    from .init_cmd import cmd_init\n    cmd_init()",
+        "detail": "etch.cli.main",
+        "documentation": {}
+    },
+    {
+        "label": "cmd_mcp",
+        "kind": 2,
+        "importPath": "etch.cli.mcp_cmd",
+        "description": "etch.cli.mcp_cmd",
+        "peekOfCode": "def cmd_mcp() -> None:\n    \"\"\"Print MCP server JSON config to paste into Claude Code / Cursor.\"\"\"\n    typer.echo(\"Coming soon - etch mcp (Week 2)\")",
+        "detail": "etch.cli.mcp_cmd",
+        "documentation": {}
+    },
+    {
+        "label": "cmd_projects",
+        "kind": 2,
+        "importPath": "etch.cli.projects_cmd",
+        "description": "etch.cli.projects_cmd",
+        "peekOfCode": "def cmd_projects() -> None:\n    \"\"\"Show all tracked Etch projects and their daemon status.\"\"\"\n    console.print()\n    projects = get_all_projects()\n    if not projects:\n        console.print(\"[cyan]No projects tracked yet.[/cyan]\")\n        console.print()\n        console.print(\"  Create your first project with: [bold]cd ~/my-project && etch init[/bold]\")\n        console.print()\n        return",
+        "detail": "etch.cli.projects_cmd",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "kind": 5,
+        "importPath": "etch.cli.projects_cmd",
+        "description": "etch.cli.projects_cmd",
+        "peekOfCode": "console = Console()\ndef _is_daemon_running(project_id: str) -> bool:\n    \"\"\"Check if daemon for a project is running via PID file.\n    Args:\n        project_id: The project ID\n    Returns:\n        True if daemon process is alive, False otherwise\n    \"\"\"\n    local_dir = Path(user_data_dir(\"etch\", \"etch\")) / project_id\n    pid_file = local_dir / \"daemon.pid\"",
+        "detail": "etch.cli.projects_cmd",
+        "documentation": {}
+    },
+    {
+        "label": "cmd_setup_slm",
+        "kind": 2,
+        "importPath": "etch.cli.setup_slm_cmd",
+        "description": "etch.cli.setup_slm_cmd",
+        "peekOfCode": "def cmd_setup_slm() -> None:\n    \"\"\"Auto-detect hardware and install best local SLM.\"\"\"\n    typer.echo(\"Coming soon - etch setup-slm (Week 3)\")",
+        "detail": "etch.cli.setup_slm_cmd",
+        "documentation": {}
+    },
+    {
+        "label": "cmd_start",
+        "kind": 2,
+        "importPath": "etch.cli.start_cmd",
+        "description": "etch.cli.start_cmd",
+        "peekOfCode": "def cmd_start() -> None:\n    \"\"\"Start Etch daemon.\"\"\"\n    try:\n        etch_dir = _find_etch_dir()\n    except FileNotFoundError as e:\n        console.print(f\"[red]✗ {e}[/red]\")\n        raise typer.Exit(1)\n    settings = Settings(etch_dir)\n    settings.load()\n    project_name = settings.get(\"project_name\")",
+        "detail": "etch.cli.start_cmd",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "kind": 5,
+        "importPath": "etch.cli.start_cmd",
+        "description": "etch.cli.start_cmd",
+        "peekOfCode": "console = Console()\ndef _find_etch_dir() -> Path:\n    \"\"\"Find .etch directory by walking up from cwd.\"\"\"\n    current = Path.cwd()\n    while current != current.parent:\n        etch_dir = current / \".etch\"\n        if etch_dir.exists() and (etch_dir / \"config.json\").exists():\n            return etch_dir\n        current = current.parent\n    raise FileNotFoundError(\"No .etch directory found. Run 'etch init' first.\")",
+        "detail": "etch.cli.start_cmd",
+        "documentation": {}
+    },
+    {
+        "label": "cmd_status",
+        "kind": 2,
+        "importPath": "etch.cli.status_cmd",
+        "description": "etch.cli.status_cmd",
+        "peekOfCode": "def cmd_status() -> None:\n    \"\"\"Show daemon status and project statistics.\n    Falls back to showing all tracked projects if run outside a project context.\n    \"\"\"\n    try:\n        etch_dir = _find_etch_dir()\n    except FileNotFoundError:\n        # Fall back to showing all projects when run outside a project context\n        from .projects_cmd import cmd_projects\n        cmd_projects()",
+        "detail": "etch.cli.status_cmd",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "kind": 5,
+        "importPath": "etch.cli.status_cmd",
+        "description": "etch.cli.status_cmd",
+        "peekOfCode": "console = Console()\ndef _find_etch_dir() -> Path:\n    \"\"\"Find .etch directory by walking up from cwd.\"\"\"\n    current = Path.cwd()\n    while current != current.parent:\n        etch_dir = current / \".etch\"\n        if etch_dir.exists() and (etch_dir / \"config.json\").exists():\n            return etch_dir\n        current = current.parent\n    raise FileNotFoundError(\"No .etch directory found.\")",
+        "detail": "etch.cli.status_cmd",
+        "documentation": {}
+    },
+    {
+        "label": "cmd_stop",
+        "kind": 2,
+        "importPath": "etch.cli.stop_cmd",
+        "description": "etch.cli.stop_cmd",
+        "peekOfCode": "def cmd_stop() -> None:\n    \"\"\"Stop Etch daemon.\"\"\"\n    try:\n        etch_dir = _find_etch_dir()\n    except FileNotFoundError as e:\n        console.print(f\"[red]✗ {e}[/red]\")\n        raise typer.Exit(1)\n    settings = Settings(etch_dir)\n    settings.load()\n    project_name = settings.get(\"project_name\")",
+        "detail": "etch.cli.stop_cmd",
+        "documentation": {}
+    },
+    {
+        "label": "console",
+        "kind": 5,
+        "importPath": "etch.cli.stop_cmd",
+        "description": "etch.cli.stop_cmd",
+        "peekOfCode": "console = Console()\ndef _find_etch_dir() -> Path:\n    \"\"\"Find .etch directory by walking up from cwd.\"\"\"\n    current = Path.cwd()\n    while current != current.parent:\n        etch_dir = current / \".etch\"\n        if etch_dir.exists() and (etch_dir / \"config.json\").exists():\n            return etch_dir\n        current = current.parent\n    raise FileNotFoundError(\"No .etch directory found.\")",
+        "detail": "etch.cli.stop_cmd",
+        "documentation": {}
+    },
+    {
+        "label": "get_registry_path",
+        "kind": 2,
+        "importPath": "etch.config.registry",
+        "description": "etch.config.registry",
+        "peekOfCode": "def get_registry_path() -> Path:\n    \"\"\"Get the global registry path: ~/.config/etch/projects.json\"\"\"\n    config_dir = Path(user_config_dir(\"etch\", \"etch\"))\n    config_dir.mkdir(parents=True, exist_ok=True)\n    return config_dir / \"projects.json\"\ndef load_registry() -> Dict:\n    \"\"\"Load global registry from disk.\n    Returns:\n        dict with 'projects' key containing project entries, or empty dict if not found.\n    \"\"\"",
+        "detail": "etch.config.registry",
+        "documentation": {}
+    },
+    {
+        "label": "load_registry",
+        "kind": 2,
+        "importPath": "etch.config.registry",
+        "description": "etch.config.registry",
+        "peekOfCode": "def load_registry() -> Dict:\n    \"\"\"Load global registry from disk.\n    Returns:\n        dict with 'projects' key containing project entries, or empty dict if not found.\n    \"\"\"\n    registry_path = get_registry_path()\n    if not registry_path.exists():\n        return {\"projects\": {}}\n    try:\n        with open(registry_path) as f:",
+        "detail": "etch.config.registry",
+        "documentation": {}
+    },
+    {
+        "label": "save_registry",
+        "kind": 2,
+        "importPath": "etch.config.registry",
+        "description": "etch.config.registry",
+        "peekOfCode": "def save_registry(data: Dict) -> None:\n    \"\"\"Save global registry to disk.\n    Args:\n        data: Registry dict with 'projects' key\n    \"\"\"\n    registry_path = get_registry_path()\n    registry_path.parent.mkdir(parents=True, exist_ok=True)\n    with open(registry_path, \"w\") as f:\n        json.dump(data, f, indent=2)\ndef register_project(project_id: str, name: str, root: str, mcp_port: int) -> None:",
+        "detail": "etch.config.registry",
+        "documentation": {}
+    },
+    {
+        "label": "register_project",
+        "kind": 2,
+        "importPath": "etch.config.registry",
+        "description": "etch.config.registry",
+        "peekOfCode": "def register_project(project_id: str, name: str, root: str, mcp_port: int) -> None:\n    \"\"\"Add or update a project in the global registry.\n    Args:\n        project_id: Unique project identifier (UUID)\n        name: Human-readable project name\n        root: Absolute path to project root\n        mcp_port: MCP server port assigned to this project\n    \"\"\"\n    registry = load_registry()\n    registry[\"projects\"][project_id] = {",
+        "detail": "etch.config.registry",
+        "documentation": {}
+    },
+    {
+        "label": "unregister_project",
+        "kind": 2,
+        "importPath": "etch.config.registry",
+        "description": "etch.config.registry",
+        "peekOfCode": "def unregister_project(project_id: str) -> None:\n    \"\"\"Remove a project from the global registry.\n    Args:\n        project_id: Unique project identifier\n    \"\"\"\n    registry = load_registry()\n    if project_id in registry.get(\"projects\", {}):\n        del registry[\"projects\"][project_id]\n        save_registry(registry)\ndef get_all_projects() -> List[Dict]:",
+        "detail": "etch.config.registry",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_projects",
+        "kind": 2,
+        "importPath": "etch.config.registry",
+        "description": "etch.config.registry",
+        "peekOfCode": "def get_all_projects() -> List[Dict]:\n    \"\"\"Return list of all registered projects.\n    Returns:\n        List of project dicts, sorted by added_at (newest first)\n    \"\"\"\n    registry = load_registry()\n    projects = list(registry.get(\"projects\", {}).values())\n    # Sort by added_at descending (newest first)\n    projects.sort(key=lambda p: p.get(\"added_at\", 0), reverse=True)\n    return projects",
+        "detail": "etch.config.registry",
+        "documentation": {}
+    },
+    {
+        "label": "get_project",
+        "kind": 2,
+        "importPath": "etch.config.registry",
+        "description": "etch.config.registry",
+        "peekOfCode": "def get_project(project_id: str) -> Optional[Dict]:\n    \"\"\"Get a single project by ID.\n    Args:\n        project_id: Unique project identifier\n    Returns:\n        Project dict, or None if not found\n    \"\"\"\n    registry = load_registry()\n    return registry.get(\"projects\", {}).get(project_id)",
+        "detail": "etch.config.registry",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "etch.config.settings",
+        "description": "etch.config.settings",
+        "peekOfCode": "class Settings:\n    \"\"\"Manages .etch/config.json file.\"\"\"\n    def __init__(self, etch_dir: Path):\n        \"\"\"Initialize settings manager.\n        Args:\n            etch_dir: Path to .etch directory\n        \"\"\"\n        self.etch_dir = Path(etch_dir)\n        self.config_path = self.etch_dir / \"config.json\"\n        self._config: Optional[Dict[str, Any]] = None",
+        "detail": "etch.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "GitPoller",
+        "kind": 6,
+        "importPath": "etch.daemon.git_poller",
+        "description": "etch.daemon.git_poller",
+        "peekOfCode": "class GitPoller:\n    \"\"\"Polls git repository for new commits.\"\"\"\n    def __init__(self, repo_path: Path, store: Store, project_id: str):\n        \"\"\"Initialize git poller.\n        Args:\n            repo_path: Path to git repository\n            store: Store instance for recording commits\n            project_id: Project identifier\n        \"\"\"\n        self.repo_path = Path(repo_path)",
+        "detail": "etch.daemon.git_poller",
+        "documentation": {}
+    },
+    {
+        "label": "DaemonRunner",
+        "kind": 6,
+        "importPath": "etch.daemon.runner",
+        "description": "etch.daemon.runner",
+        "peekOfCode": "class DaemonRunner:\n    \"\"\"Runs Etch daemon with all background threads.\"\"\"\n    def __init__(self, etch_dir: Path):\n        \"\"\"Initialize daemon runner.\n        Args:\n            etch_dir: Path to .etch directory\n        \"\"\"\n        self.etch_dir = Path(etch_dir)\n        self.settings = Settings(self.etch_dir)\n        self.settings.load()",
+        "detail": "etch.daemon.runner",
+        "documentation": {}
+    },
+    {
+        "label": "SessionTracker",
+        "kind": 6,
+        "importPath": "etch.daemon.session_tracker",
+        "description": "etch.daemon.session_tracker",
+        "peekOfCode": "class SessionTracker:\n    \"\"\"Groups file events into work sessions.\"\"\"\n    def __init__(\n        self,\n        store: Store,\n        project_id: str,\n        session_gap_minutes: int = 30,\n    ):\n        \"\"\"Initialize session tracker.\n        Args:",
+        "detail": "etch.daemon.session_tracker",
+        "documentation": {}
+    },
+    {
+        "label": "FileWatcher",
+        "kind": 6,
+        "importPath": "etch.daemon.watcher",
+        "description": "etch.daemon.watcher",
+        "peekOfCode": "class FileWatcher:\n    \"\"\"Watches project files for changes using watchdog.\"\"\"\n    def __init__(\n        self,\n        project_root: Path,\n        store: Store,\n        project_id: str,\n        ignore_patterns: List[str],\n        watched_extensions: Optional[Set[str]] = None,\n    ):",
+        "detail": "etch.daemon.watcher",
+        "documentation": {}
+    },
+    {
+        "label": "FileWatcherHandler",
+        "kind": 6,
+        "importPath": "etch.daemon.watcher",
+        "description": "etch.daemon.watcher",
+        "peekOfCode": "class FileWatcherHandler(FileSystemEventHandler):\n    \"\"\"Event handler for watchdog observer.\"\"\"\n    def __init__(self, watcher: FileWatcher):\n        \"\"\"Initialize handler with reference to watcher.\"\"\"\n        self.watcher = watcher\n    def on_modified(self, event: FileModifiedEvent) -> None:\n        \"\"\"Handle file modification.\"\"\"\n        self.watcher.on_modified(event)\n    def on_created(self, event: FileCreatedEvent) -> None:\n        \"\"\"Handle file creation.\"\"\"",
+        "detail": "etch.daemon.watcher",
+        "documentation": {}
+    },
+    {
+        "label": "Store",
+        "kind": 6,
+        "importPath": "etch.memory.store",
+        "description": "etch.memory.store",
+        "peekOfCode": "class Store:\n    \"\"\"Thread-safe SQLite store for Engram memory.\"\"\"\n    def __init__(self, db_path: Path):\n        \"\"\"Initialize store and set up schema.\n        Args:\n            db_path: Path to SQLite database file\n        \"\"\"\n        self.db_path = Path(db_path)\n        self._local = threading.local()\n        self._init_schema()",
+        "detail": "etch.memory.store",
+        "documentation": {}
+    }
+]

@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv
+env/
+venv/
+*.egg-info/
+dist/
+build/
+.DS_Store
+*.log
+.etch/
+.engram/
+*.db
+*.db-journal
+nohup.out
